@@ -1,0 +1,10 @@
+### Include the Constants
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Constants/01_pageSetup.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Constants/02_standardLanguage.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Constants/03_firstForeignLanguage.ts">
+# <INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Constants/04_secondForeignLanguage.ts">
+# <INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Constants/05_thirdForeignLanguage.ts">
+# <INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Constants/06_fourthForeignLanguage.ts">
+# <INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Constants/07_fifthForeignLanguage.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Constants/08_internalConstants.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Constants/09_transferConstants.ts">

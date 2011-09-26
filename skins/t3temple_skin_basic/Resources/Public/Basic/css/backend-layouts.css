@@ -1,0 +1,71 @@
+.col {
+  display: inline;
+  float: left;
+  position: relative;
+  margin: 0 1%;
+}
+
+.col-100 .col { width: 100%; margin: 0; }
+
+.col-50-50 .col { width: 48%; }
+
+.col-33-33-33 .col { width: 31%; }
+
+.col-33-66 .col.col-1 { width: 31%; }
+.col-33-66 .col.col-2 { width: 64%; }
+
+.col-66-33 .col.col-1 { width: 64%; }
+.col-66-33 .col.col-2 { width: 31%; }
+
+.col-25-25-25-25 .col { width: 23% }
+
+.col-25-75 .col.col-1 { width: 23%; }
+.col-25-75 .col.col-2 { width: 73%; }
+
+.col-75-25 .col.col-1 { width: 73%; }
+.col-75-25 .col.col-2 { width: 23%; }
+
+
+
+
+/* Clearfix */
+.col-100:after,
+.col-50-50:after,
+.col-33-33-33:after,
+.col-33-66:after,
+.col-66-33:after,
+.col-25-25-25-25:after,
+.col-25-75:after,
+.col-75-25:after {
+  clear: both;
+	content: ' ';
+	display: block;
+	font-size: 0;
+	line-height: 0;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+.col-100,
+.col-50-50,
+.col-33-33-33,
+.col-66-33,
+.col-25-25-25-25,
+.col-25-75,
+.col-75-25 { display: block; overflow: hidden; }
+
+.ie7 .clearfix { display: inline-block; clear: both; font-size: 0; }
+
+.ie6 .clearfix { height: 1%; }
+
+
+
+
+
+
+
+
+
+
+
+

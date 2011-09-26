@@ -1,0 +1,9 @@
+## Includes all TypoScript files
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Setup/01_pageSetup.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Setup/02_pageElements.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Setup/03_menuElements.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Setup/04_mainContent.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Setup/05_htmlStructure.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Setup/06_tt_content.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Setup/07_indexed_search.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:t3temple_skin_basic/Configuration/TypoScript/Setup/08_languageSettings.ts">
