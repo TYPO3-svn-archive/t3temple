@@ -59,6 +59,6 @@ plugin.t3temple_skin_basic.searchForm {
 		<input type="hidden" name="tx_indexedsearch[ext]" value="0" />
 		<input type="hidden" name="tx_indexedsearch[lang]" value="0" />
 	</form>
-)
-  }
+  )
 }
+
